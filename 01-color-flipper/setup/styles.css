@@ -230,5 +230,6 @@ main {
 }
 .btn-hero:hover {
   color: var(--clr-white);
+  cursor: pointer;
   background: var(--clr-black);
 }
